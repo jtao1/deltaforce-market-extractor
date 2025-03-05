@@ -1,4 +1,4 @@
-#Delta Force Market Extractor
+# Delta Force Market Extractor
 This script allows you to input a list of auction house items and retrieve those prices automatically.
 
 
